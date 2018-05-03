@@ -8,7 +8,7 @@ Sistema responsável por gerenciar reserva de qualquer estabelecimento, basta in
 |Aluno| R.A  |
 |--|--|
 |Bruno Borges Furukawa| 1601320  |
-|Lucas Rabelo Moreaux | -- |
+|Lucas Rabelo Moreaux | 1601076 |
 |Mateus Augusto Veiga Zamboni | -- |
 |Milve Yashira Málaga Jover | 1601521 |
 |Alysson Diego Dutra Alves | 1601115 |
