@@ -9,7 +9,7 @@ Sistema responsável por gerenciar reserva de qualquer estabelecimento, basta in
 |--|--|
 |Bruno Borges Furukawa| 1601320  |
 |Lucas Rabelo Moreaux | 1601076 |
-|Mateus Augusto Veiga Zamboni | -- |
+|Mateus Augusto Veiga Zamboni | 1601075 |
 |Milve Yashira Málaga Jover | 1601521 |
 |Alysson Diego Dutra Alves | 1601115 |
 |Filipe Augusto de Moura | 1601403 |
