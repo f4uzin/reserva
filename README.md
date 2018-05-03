@@ -5,13 +5,14 @@ Sistema responsável por gerenciar reserva de qualquer estabelecimento, basta in
 
 
 # Grupo
-
-- Bruno Borges Furukawa
-- Lucas Rabelo Moreaux
-- Mateus Augusto Veiga Zamboni
-- Milve Yashira Málaga Jover
-- Alysson Diego Dutra Alves
-- Filipe Augusto de Moura
+|Aluno| R.A  |
+|--|--|
+|Bruno Borges Furukawa| 1601320  |
+|Lucas Rabelo Moreaux | -- |
+|Mateus Augusto Veiga Zamboni | -- |
+|Milve Yashira Málaga Jover | 1601521 |
+|Alysson Diego Dutra Alves | 1601115 |
+|Filipe Augusto de Moura | 1601403 |
 
 ## Faculdade impacta de tecnologia
 |Curso| Sistemas de informação  |
