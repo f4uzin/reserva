@@ -11,6 +11,7 @@ Sistema responsável por gerenciar reserva de qualquer estabelecimento, basta in
 - Mateus Augusto Veiga Zamboni
 - Milve Yashira Málaga Jover
 - Alysson Diego Dutra Alves
+- Filipe Augusto de Moura
 
 ## Faculdade impacta de tecnologia
 |Curso| Sistemas de informação  |
